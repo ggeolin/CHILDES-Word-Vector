@@ -1,0 +1,7 @@
+{
+    "model_name" : "CHILDES_model",
+    "input_dir" : "TRAIN",
+    "min_count" : 0,
+    "size" : 200,
+    "window" : 5
+}

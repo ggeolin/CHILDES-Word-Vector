@@ -1,0 +1,118 @@
+@UTF8
+@PID:	11312/c-00033785-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|7;05.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	27-MAR-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 10/24/1994
+@Comment:	Ethnicity = European American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	they did not know what to eat .
+%mor:	pro:sub|they mod|do&PAST neg|not v|know pro:int|what inf|to v|eat .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	they did not know what to eat .
+%mor:	pro:sub|they mod|do&PAST neg|not v|know pro:int|what inf|to v|eat .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|4|PUNCT
+*CHI:	they decided to go to Mcdonalds .
+%mor:	pro:sub|they v|decide-PAST inf|to v|go prep|to n:prop|Mcdonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*INV:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@G:	LateForSchool
+*CHI:	he was asleep .
+%mor:	pro:sub|he cop|be&PAST&13S adv|asleep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and he wakeded [: woke] [* m:=ed] [* m:+ed] up .
+%mor:	coord|and pro:sub|he v|wake&PAST adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	then [/] then he got up into the kitchen .
+%mor:	adv:tem|then pro:sub|he v|get&PAST adv|up prep|into det:art|the
+	n|kitchen .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and he ate his breakfast .
+%mor:	coord|and pro:sub|he v|eat&PAST det:poss|his n|breakfast .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	when he was done he was going to go tie his shoe .
+%mor:	conj|when pro:sub|he aux|be&PAST&13S part|do&PASTP pro:sub|he
+	aux|be&PAST&13S part|go-PRESP inf|to v|go v|tie det:poss|his n|shoe
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|10|INF
+	9|10|SRL 10|7|COMP 11|12|DET 12|10|OBJ 13|7|PUNCT
+*CHI:	and [/] and he did not go .
+%mor:	coord|and pro:sub|he mod|do&PAST neg|not v|go .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	<and> [/?] he was late for school .
+%mor:	pro:sub|he cop|be&PAST&13S adv|late prep|for n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	<and> [/?] he goes on the bus .
+%mor:	pro:sub|he v|go-3S prep|on det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	<and> [/?] the bus left him .
+%mor:	det:art|the n|bus v|leave&PAST pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<and> [/?] he was trying to get on the bus .
+%mor:	pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|get prep|on
+	det:art|the n|bus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	but he hadta walk .
+%mor:	conj|but pro:sub|he mod|have&PAST~inf|to v|walk .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+*CHI:	and he [/] he finally got there .
+%mor:	coord|and pro:sub|he adv|final&dadj-LY v|get&PAST adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	<and> [/?] he went <to work> [/] to work on <his homework I mean>
+	[/?] his schoolwork .
+%mor:	pro:sub|he v|go&PAST prep|to n|work prep|on det:poss|his
+	n|+n|school+n|work .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+@G:	Aliens
+*CHI:	when they were coming <&m> [/?] they were going out of the ship .
+%mor:	conj|when pro:sub|they aux|be&PAST part|come-PRESP pro:sub|they
+	aux|be&PAST part|go-PRESP adv|out prep|of det:art|the n|ship .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*CHI:	<and they> [/?] and the dad saw them .
+%mor:	coord|and det:art|the n|dad v|see&PAST pro:obj|them .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	<and> [/?] the mom &-um didn't or saw them .
+%mor:	det:art|the n|mom mod|do&PAST~neg|not coord|or v|see&PAST
+	pro:obj|them .
+%gra:	1|2|DET 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|LINK 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	<and and they &th> [/?] the mom wanted to go but not the dad .
+%mor:	det:art|the n|mom v|want-PAST inf|to v|go conj|but neg|not
+	det:art|the n|dad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|9|NEG 8|9|DET
+	9|6|COORD 10|3|PUNCT
+*CHI:	<and> [/?] they had a pretend dog and pretend sister and pretend
+	their mom and dad .
+%mor:	pro:sub|they v|have&PAST det:art|a adj|pretend n|dog coord|and
+	adj|pretend n|sister coord|and v|pretend det:poss|their n|mom
+	coord|and n|dad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|2|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|12|CONJ 14|13|COORD 15|2|PUNCT
+*CHI:	<and and and> [/?] the dad was afraid .
+%mor:	det:art|the n|dad cop|be&PAST&13S adj|afraid .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he could be +...
+%mor:	pro:sub|he mod|could cop|be +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	and I don't know any more .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know qn|any pro:indef|more .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	there were trees .
+%mor:	pro:exist|there cop|be&PAST n|tree-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and I don't know .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+@End

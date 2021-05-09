@@ -1,0 +1,145 @@
+@UTF8
+@PID:	11312/c-00033742-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|Gillam|CHI|6;11.|male|||Target_Child|||
+@ID:	eng|Gillam|INV|||||Investigator|||
+@Date:	04-APR-2002
+@Transcriber:	Rebecca Garcia
+@Comment:	DOB = 4/6/1995
+@Comment:	Ethnicity = African American
+@Comment:	Impairment = Yes
+@G:	McDonalds
+@Types:	cross, narrative, SLI
+*CHI:	<they &-uh they they> [/?] they were going to Mcdonalds .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP prep|to n:prop|Mcdonalds .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<then then they were then they were> [/?] then they were here .
+%mor:	adv:tem|then pro:sub|they cop|be&PAST adv|here .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	then his mother said what are we going to eat .
+%mor:	adv:tem|then det:poss|his n|mother v|say&PAST pro:int|what
+	cop|be&PRES pro:sub|we part|go-PRESP inf|to v|eat .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|PRED 8|7|XMOD
+	9|10|INF 10|8|COMP 11|4|PUNCT
+*CHI:	then they said Mcdonalds .
+%mor:	adv:tem|then pro:sub|they v|say&PAST n:prop|Mcdonalds .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	then they drived into Mcdonalds .
+%mor:	adv:tem|then pro:sub|they v|drive-PAST prep|into n:prop|Mcdonalds .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<then then then &h then> [/?] then he orders a happymeal .
+%mor:	adv:tem|then pro:sub|he v|order-3S det:art|a n|+adj|happy+n|meal .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and [/] and they will .
+%mor:	coord|and pro:sub|they mod|will .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	<and> [/?] his mother ordered some salad .
+%mor:	det:poss|his n|mother v|order-PAST qn|some n|salad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	<and they all and> [/?] then they all eat .
+%mor:	adv:tem|then pro:sub|they post|all v|eat .
+%gra:	1|4|JCT 2|4|SUBJ 3|2|PQ 4|0|ROOT 5|4|PUNCT
+*CHI:	<then when they finish eating they &dro> [/?] and then they finish
+	eating .
+%mor:	coord|and adv:tem|then pro:sub|they v|finish part|eat-PRESP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|4|PUNCT
+*CHI:	they go back home .
+%mor:	pro:sub|they v|go adv|back adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+@G:	LateForSchool
+*CHI:	wake up wake up .
+%mor:	v|wake adv|up v|wake adv|up .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|JCT 5|1|PUNCT
+*CHI:	wake up wake up .
+%mor:	v|wake adv|up v|wake adv|up .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|JCT 5|1|PUNCT
+*CHI:	<it's it's> [/?] it's six o'clock .
+%mor:	pro:per|it~cop|be&3S det:num|six n|o'clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*CHI:	<he he woke up> [/?] and he woke up and fixed her a breakfast .
+%mor:	coord|and pro:sub|he v|wake&PAST adv|up coord|and v|fix-PAST
+	pro:obj|her det:art|a n|breakfast .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|3|PUNCT
+*CHI:	he spilled her milk .
+%mor:	pro:sub|he v|spill-PAST det:poss|her n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	then [/] then his milk all dripped .
+%mor:	adv:tem|then det:poss|his n|milk adv|all part|drip-PASTP .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	<he tied his> [/?] he tie [* m:0ed] his shoes .
+%mor:	pro:sub|he v|tie det:poss|his n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and his shoestring got ripped .
+%mor:	coord|and det:poss|his n|+n|shoe+n|string aux|get&PAST
+	part|rip-PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	<then he> [/] then he missed the bus and drive away to school .
+%mor:	adv:tem|then pro:sub|he v|miss-PAST det:art|the n|bus coord|and
+	n|drive adv|away prep|to n|school .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|3|PUNCT
+*CHI:	<she was she was> [/?] she was be [* m:0ing] late .
+%mor:	pro:sub|she cop|be&PAST&13S cop|be adv|late .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+*CHI:	<he went to school she went to school> [/?] and he went to school .
+%mor:	coord|and pro:sub|he v|go&PAST prep|to n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and and> [/?] he was late .
+%mor:	pro:sub|he cop|be&PAST&13S adv|late .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	<and he got he got> [/?] he got three o'clock after school .
+%mor:	pro:sub|he v|get&PAST det:num|three n|o'clock prep|after n|school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*CHI:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Aliens
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I don't know whose their name [* 0s] are .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|whose det:poss|their n|name
+	cop|be&PRES .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*CHI:	<uh john and john and Cynthia> [/?] john and Cynthia went in the
+	park .
+%mor:	n|john coord|and n:prop|Cynthia v|go&PAST prep|in det:art|the
+	n|park .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	<they saw> [/] they saw the aliens come right down <to the> [/?] to
+	the river .
+%mor:	pro:sub|they v|see&PAST det:art|the n|alien-PL v|come adv|right
+	adv|down prep|to det:art|the n|river .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|JCT 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	aliens he yelled .
+%mor:	n|alien-PL pro:sub|he v|yell-PAST .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*CHI:	<they hiding> [/?] they 0are hiding in the smallest tree .
+%mor:	pro:sub|they 0aux|be&PRES part|hide-PRESP prep|in det:art|the
+	adj|small-SP n|tree .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	<then then then they were> [/?] then john did afraid .
+%mor:	adv:tem|then n|john v|do&PAST adj|afraid .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	<Cynthia says> [/] Cynthia says <we we gotta see &h &we> [/?] we
+	gotta see the aliens .
+%mor:	n:prop|Cynthia v|say-3S pro:sub|we mod|got~inf|to v|see det:art|the
+	n|alien-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|INF 6|2|COMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*CHI:	he grabbed his hand and check <and see and see the and let and see
+	the and see the> [/?] and <see the the the the people> [/?] went to
+	see the people .
+%mor:	pro:sub|he v|grab-PAST det:poss|his n|hand coord|and n|check
+	coord|and v|go&PAST inf|to v|see det:art|the n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|CONJ 8|7|COORD
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|2|PUNCT
+*CHI:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End
